@@ -1,9 +1,0 @@
-{
-  "name": "riyadh-glass-sticker-seo-site",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "start": "npx serve ."
-  },
-  "description": "Static SEO website for glass and sticker installation services in Riyadh."
-}
